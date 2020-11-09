@@ -1,4 +1,6 @@
-# 1. Tìm kiếm bằng Google và Google Scholar
+# Danh sách nhóm N015:
+
+# Tìm kiếm thông tin bằng Google và Google Scholar
 ## 1) Tìm kiếm theo keyword
 Sử dụng câu truy vấn theo nhiều keyword để tìm kiếm một cách hiệu quả. Sử dụng càng nhiều keyword sẽ giúp cho việc tìm kiếm trở nên hiệu quả hơn. <br>
 ![](https://github.com/tankien76/CS519.L11/blob/main/QT-SEARCH01/Capture.PNG)
