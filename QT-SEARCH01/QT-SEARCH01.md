@@ -1,5 +1,7 @@
 # Danh sách nhóm N015:
-
+* Đoàn Xuân Minh 18521093
+* Lỡ Đình Phương 18521274
+* Trịnh Hưng Long 18521060
 # Tìm kiếm thông tin bằng Google và Google Scholar
 ## 1) Tìm kiếm theo keyword
 Sử dụng câu truy vấn theo nhiều keyword để tìm kiếm một cách hiệu quả. Sử dụng càng nhiều keyword sẽ giúp cho việc tìm kiếm trở nên hiệu quả hơn. <br>
